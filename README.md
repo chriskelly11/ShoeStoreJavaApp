@@ -12,4 +12,6 @@ Admin/Manager payne Login <br>
 Username: "King" <br>
 Password: "one" <br>
 
-
+Employee Login <br>
+Username: "queen" <br>
+Password: "two" <br>
